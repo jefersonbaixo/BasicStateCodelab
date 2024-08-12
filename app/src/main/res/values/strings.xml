@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic State Codelab</string>
+    <string name="water_counter_text">You`ve had %d glasses of water today</string>
+    <string name="add_one">Add one</string>
+</resources>
